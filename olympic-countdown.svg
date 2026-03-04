@@ -1657,7 +1657,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.62"
-     inkscape:cx="108.87097"
+     inkscape:cx="766.93548"
      inkscape:cy="145.96774"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -1854,10 +1854,7 @@ setInterval(updateCountdown,1000);
      id="text8"
      transform="scale(0.80107035,1.2483298)"><tspan
        sodipodi:role="line"
-       id="tspan7"
-       x="1195.855"
-       y="226.20291"
-       style="stroke-width:1.35551">LOS ANGALES</tspan></text><g
+       id="tspan1">LOS ANGELES</tspan></text><g
      id="g389"
      transform="matrix(1.1342608,0,0,1.1749284,1124.9038,-118.28981)"><path
        id="path314"
