@@ -2433,7 +2433,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.68055556"
-     inkscape:cx="960.2449"
+     inkscape:cx="960.24489"
      inkscape:cy="540"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -2476,13 +2476,7 @@ fill:#555;
 font-size:72px;
 font-weight:bold;
 }
-</style><!-- Başlık --><!-- Sayaç Kutuları --><rect
-     style="fill:#000000;stroke-width:0.950788"
-     id="rect1"
-     width="1920"
-     height="1080"
-     x="6.6281071"
-     y="1.0521259" /><text
+</style><!-- Başlık --><!-- Sayaç Kutuları --><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:155.34px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.45629"
      x="1119.5985"
